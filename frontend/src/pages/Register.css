@@ -1,0 +1,58 @@
+.success-message {
+  background: #d4edda;
+  color: #155724;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  border: 1px solid #c3e6cb;
+}
+
+.user-id-display {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: white;
+  border-radius: 4px;
+  border: 2px solid #28a745;
+}
+
+.user-id-display strong {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.copy-button {
+  margin-top: 0.5rem;
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.3s;
+}
+
+.copy-button:hover {
+  background: #218838;
+}
+
+.id-hint {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #856404;
+  background: #fff3cd;
+  padding: 0.75rem;
+  border-radius: 4px;
+  border: 1px solid #ffeaa7;
+}
+
+.copy-feedback {
+  display: inline-block;
+  margin-left: 0.75rem;
+  color: #155724;
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.85rem;
+}
